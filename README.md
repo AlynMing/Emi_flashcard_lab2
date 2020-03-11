@@ -24,8 +24,8 @@ The view "Who is the 44th President of the Uniated states" changes to what the u
 - [x] User can edit a card
 - [x] An error message is shown if the user doesn't enter both a Question and an Answer
 - [x] A notification is shown if the card was created successfully
-- [ ] User can also enter multiple choice answers when creating a card
-- [ ] App is further styled and customized!
+- [x] User can also enter multiple choice answers when creating a card
+- [x] App is further styled and customized!
 
 ##Lab 1
 
@@ -47,6 +47,6 @@ A click on the answer "Barack Obama" return to the first view.
 ## Optional
 - [x] toggle the flashcard between the question side and the answer side
 - [x] Style the question and answer side of the card to better distinguish between the two sides
-- [ ] Add selectable multiple choice answers beneath the card
-   - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
-- [ ] Further customize and style the card
+- [x] Add selectable multiple choice answers beneath the card
+   - [x] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
+- [x] Further customize and style the card
