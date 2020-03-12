@@ -11,7 +11,8 @@ The view "Who is the 44th President of the Uniated states" changes to what the u
 
 
 ### App Walk-though
-<img src="Lab 2 - Emi_flashcard_Demo_Lab2.gif" width=200><br>
+<img src="Emi_flashcard_Demo_Lab2.gif" width=200><br>
+<img src="Lab 2 - Emi_flashcard_Demo.gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
@@ -26,6 +27,7 @@ The view "Who is the 44th President of the Uniated states" changes to what the u
 - [x] A notification is shown if the card was created successfully
 - [x] User can also enter multiple choice answers when creating a card
 - [x] App is further styled and customized!
+
 
 ##Lab 1
 
