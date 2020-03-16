@@ -22,7 +22,7 @@ The view "Who is the 44th President of the Uniated states" changes to what the u
 - [x] Push your progress to GitHub!
 
 ## Optional
-- [x] User can edit a card
+- [ ] User can edit a card
 - [x] An error message is shown if the user doesn't enter both a Question and an Answer
 - [x] A notification is shown if the card was created successfully
 - [x] User can also enter multiple choice answers when creating a card
